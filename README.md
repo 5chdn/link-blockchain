@@ -4,13 +4,17 @@
 
 The purpose of the Link blockchain is to permanently store semantic linked data.
 
-Funding preallocation: 56,000,000 Link (equivalent to approximately 5 years worth of mining)
+## Cryptofuel
 
-Currency code: LINK
+Name: Link
 
-Currency symbol: `🔗`
+Code: LINK
+
+Symbol: `🔗`
 
 BIP44 coin type: 76 / 0x8000004c
+
+Funding preallocation: `🔗`56,000,000 (equivalent to approximately 5 years worth of mining)
 
 ## Ethereum configuration
 
