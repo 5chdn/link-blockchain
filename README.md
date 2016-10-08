@@ -28,7 +28,7 @@ WS Port: 8646
 
 ## Parity instructions
 
-    parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645
+    parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645 --geth
 
 ## Geth instructions
 
