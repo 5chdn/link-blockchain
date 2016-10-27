@@ -8,7 +8,8 @@
         "difficultyBoundDivisor": "0x0800",
         "durationLimit": "0x0d",
         "blockReward": "0x4563918244f40000",
-        "frontierCompatibilityModeLimit": "0x0"
+        "frontierCompatibilityModeLimit": "0x0",
+        "eip150Transition": "0x7fffffffffffffff"
       }
     }
   },
