@@ -6,7 +6,13 @@
 Welcome to Link Blockchain's documentation!
 ===========================================
 
-Contents:
+Link is an Ethereum blockchain to permanently store semantic linked data.
+
+Subprojects
+-----------
+
+* `BlobStore <http://docs.link-blockchain.org/projects/blobstore/>`_
+
 
 .. toctree::
    :maxdepth: 2
