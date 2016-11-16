@@ -8,6 +8,11 @@ Welcome to Link Blockchain's documentation!
 
 Link is an Ethereum blockchain to permanently store semantic linked data.
 
+Useful links
+------------
+
+* `Blog <https://blog.link-blockchain.org/>`_
+
 Subprojects
 -----------
 
