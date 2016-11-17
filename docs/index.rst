@@ -17,6 +17,8 @@ Useful links
 
 * `Subreddit <https://www.reddit.com/r/link_blockchain/>`_
 
+* `Gitter channel <https://gitter.im/link-blockchain/link-blockchain>`_
+
 Subprojects
 -----------
 
