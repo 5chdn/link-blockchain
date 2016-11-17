@@ -15,6 +15,8 @@ Useful links
 
 * `Twitter feed <https://twitter.com/link_blockchain>`_
 
+* `Subreddit <https://www.reddit.com/r/link_blockchain/>`_
+
 Subprojects
 -----------
 
