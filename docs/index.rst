@@ -13,6 +13,8 @@ Useful links
 
 * `Blog <https://blog.link-blockchain.org/>`_
 
+* `Twitter feed <https://twitter.com/link_blockchain>`_
+
 Subprojects
 -----------
 
