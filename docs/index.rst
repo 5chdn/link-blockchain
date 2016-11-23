@@ -24,6 +24,8 @@ Subprojects
 
 * `BlobStore <http://docs.link-blockchain.org/projects/blobstore/>`_
 
+Table of contents
+-----------------
 
 .. toctree::
    :maxdepth: 2
