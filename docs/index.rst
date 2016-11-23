@@ -28,7 +28,7 @@ Subprojects
 .. toctree::
    :maxdepth: 2
 
-
+   issuance.rst
 
 Indices and tables
 ==================
