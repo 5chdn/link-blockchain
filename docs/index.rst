@@ -32,6 +32,7 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
+   cryptofuel.rst
    configuration.rst
 
 Indices and tables
