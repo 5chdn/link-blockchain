@@ -19,6 +19,8 @@ Useful links
 
 * `Gitter channel <https://gitter.im/link-blockchain/link-blockchain>`_
 
+* `Testnet block explorer <http://blocks.link-blockchain.org/>`_
+
 Subprojects
 -----------
 
