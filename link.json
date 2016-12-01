@@ -8,8 +8,14 @@
         "difficultyBoundDivisor": "0x0800",
         "durationLimit": "0x0d",
         "blockReward": "0x4563918244f40000",
-        "frontierCompatibilityModeLimit": "0x0",
-        "eip150Transition": "0x7fffffffffffffff"
+        "bombDefuseTransition": "0x7fffffffffffffff",
+        "homesteadTransition": 0,
+        "eip150Transition": 0,
+        "eip155Transition": 0,
+        "eip160Transition": 0,
+        "eip161abcTransition": 0,
+        "eip161dTransition": 0,
+        "maxCodeSize": 24576
       }
     }
   },
