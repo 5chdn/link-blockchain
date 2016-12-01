@@ -12,7 +12,7 @@ Code: LINK
 
 Symbol: `🔗`
 
-BIP44 coin type: 76 / 0x8000004c
+BIP44 coin type (once live): 76 / 0x8000004c
 
 ## Ethereum configuration
 
