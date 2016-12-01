@@ -32,7 +32,7 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
-   issuance.rst
+   configuration.rst
 
 Indices and tables
 ==================
