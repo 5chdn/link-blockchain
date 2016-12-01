@@ -32,6 +32,6 @@ WS Port: 8646
 
     geth --datadir ~/.link-geth init genesis.json
     cp static-nodes.json ~/.link-geth
-    geth --datadir ~/.link-geth --networkid 13919287 --port 30313 --rpcport 8645 --wsport 8646 --fast
+    geth --datadir ~/.link-geth --networkid 13919287 --port 30313 --rpcport 8645 --wsport 8646
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
