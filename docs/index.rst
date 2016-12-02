@@ -21,6 +21,8 @@ Useful links
 
 * `Testnet block explorer <http://blocks.link-blockchain.org/>`_
 
+* `Network stats <http://stats.link-blockchain.org/>`_
+
 Subprojects
 -----------
 
