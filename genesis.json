@@ -1,7 +1,7 @@
 {
   "nonce": "0x1391eaa92b871f91",
   "difficulty": "0x100000",
-  "gasLimit": "0x1388",
+  "gasLimit": 3000000,
   "config": {
     "homesteadBlock": 0,
     "eip150Block": 0,
