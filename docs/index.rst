@@ -19,6 +19,8 @@ Useful links
 
 * `Gitter channel <https://gitter.im/link-blockchain/link-blockchain>`_
 
+* `Testnet block explorer <http://blocks.link-blockchain.org/>`_
+
 Subprojects
 -----------
 
@@ -30,7 +32,8 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
-   issuance.rst
+   cryptofuel.rst
+   configuration.rst
 
 Indices and tables
 ==================
