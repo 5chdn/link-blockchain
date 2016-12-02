@@ -12,6 +12,10 @@ RPC Port: 8645
 
 WS Port: 8646
 
+.. code::
+
+    git clone https://github.com/link-blockchain/link-blockchain.git
+
 Parity instructions
 -------------------
 .. code::
