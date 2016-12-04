@@ -16,14 +16,14 @@ WS Port: 8646
 
     git clone https://github.com/link-blockchain/link-blockchain.git
 
-Parity instructions
--------------------
+Parity
+------
 .. code::
 
     parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645 --geth
 
-Geth instructions
------------------
+Geth
+----
 .. code::
 
     geth --datadir ~/.link-geth init genesis.json
@@ -31,3 +31,35 @@ Geth instructions
     geth --datadir ~/.link-geth --networkid 13919287 --port 30313 --rpcport 8645 --wsport 8646
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
+
+Netstats
+--------
+.. code::
+
+    git clone https://github.com/cubedro/eth-net-intelligence-api
+    cd eth-net-intelligence-api
+    npm install
+    sudo npm install pm2
+
+Edit app.json::
+
+         {
+           "NODE_ENV"        : "production",
+           "RPC_HOST"        : "localhost",
+    -      "RPC_PORT"        : "8545",
+    -      "LISTENING_PORT"  : "30303",
+    -      "INSTANCE_NAME"   : "",
+    +      "RPC_PORT"        : "8645",
+    +      "LISTENING_PORT"  : "30313",
+    +      "INSTANCE_NAME"   : "akalabeth",
+           "CONTACT_DETAILS" : "",
+    -      "WS_SERVER"       : "wss://rpc.ethstats.net",
+    -      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
+    +      "WS_SERVER"       : "ws://stats.link-blockchain.org:3000",
+    +      "WS_SECRET"       : "welcometothelinkedworld",
+           "VERBOSITY"       : 2
+         }
+
+Then::
+
+    pm2 start app.json
