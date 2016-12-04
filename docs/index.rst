@@ -23,6 +23,8 @@ Useful links
 
 * `Network stats <http://stats.link-blockchain.org/>`_
 
+* `Solidity APIs <http://solidity-apis.link-blockchain.org/>`_
+
 Subprojects
 -----------
 
