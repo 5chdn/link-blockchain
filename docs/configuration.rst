@@ -51,7 +51,7 @@ Edit app.json::
     -      "INSTANCE_NAME"   : "",
     +      "RPC_PORT"        : "8645",
     +      "LISTENING_PORT"  : "30313",
-    +      "INSTANCE_NAME"   : "akalabeth",
+    +      "INSTANCE_NAME"   : "MY_NODE_NAME",      // Customize this.
            "CONTACT_DETAILS" : "",
     -      "WS_SERVER"       : "wss://rpc.ethstats.net",
     -      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
