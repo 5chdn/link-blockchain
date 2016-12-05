@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Link Blockchain's documentation!
-===========================================
+Link Blockchain
+===============
 
-Link is an Ethereum blockchain to permanently store semantic linked data.
+Link is a linked data ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed apps that empower the individual.
 
 Useful links
 ------------
