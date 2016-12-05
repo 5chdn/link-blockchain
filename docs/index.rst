@@ -38,6 +38,7 @@ Table of contents
 
    cryptofuel.rst
    configuration.rst
+   filter_bubbles.rst
 
 Indices and tables
 ==================
