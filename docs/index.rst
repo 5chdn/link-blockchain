@@ -36,6 +36,7 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
+   how_does_it_work.rst
    cryptofuel.rst
    configuration.rst
    filter_bubbles.rst
