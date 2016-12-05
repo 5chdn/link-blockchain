@@ -31,3 +31,10 @@ In order for the data stored in BlobStore to have meaning, there must be some so
 Anyone can make a new type. Example types are user profiles, media metadata, tweets, reddit posts, blog posts, business information, reviews, etc.
 
 Protobuf encodes the data very tightly. This data is then compressed with Google Brotli. This minimizes the cost of storing information on Link.
+
+Additional smart contracts
+==========================
+
+Anyone can deploy additional smart contracts onto the Link blockchain. An important example would be a feed contract that would provide functionality akin to RSS / Twitter / YouTube.
+
+Other examples would be contracts to vote for content or tag content.
