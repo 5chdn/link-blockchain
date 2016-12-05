@@ -6,7 +6,7 @@
 Link Blockchain
 ===============
 
-Link is a linked data ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed apps that empower the individual.
+Link is a uncontrolled linked data ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed apps that empower the individual.
 
 Useful links
 ------------
