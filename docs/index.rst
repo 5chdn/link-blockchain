@@ -25,6 +25,8 @@ Useful links
 
 * `Solidity APIs <http://solidity-apis.link-blockchain.org/>`_
 
+* `Issue tracker <https://github.com/link-blockchain/link-blockchain/issues>`_
+
 Subprojects
 -----------
 
