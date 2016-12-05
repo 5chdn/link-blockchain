@@ -10,7 +10,7 @@ On Twitter you see the latest tweets from people you follow (minus those who hav
 
 On Reddit, you see content from subreddits you are subscribed to. Typically ordered by an opaque algorithm called "hot". Users can vote, but there is no real way to see how this affects what content is displayed. Large sections of the site will sometimes disappear, for example `/r/pizzagate <https://www.youtube.com/watch?v=ub0JDnaU9UA>`_.
 
-On Medium content creator are sometimes `ordered <https://medium.com/@nuckable/the-post-stays-up-except-when-it-criticizes-another-company-our-founder-has-helped-create-9c524abe011e#.2s6up0a4z>`_ to change their content under threat of it being removed altogether.
+On Medium content creators are sometimes `ordered <https://medium.com/@nuckable/the-post-stays-up-except-when-it-criticizes-another-company-our-founder-has-helped-create-9c524abe011e#.2s6up0a4z>`_ to change their content under threat of it being removed altogether.
 
 Each of these communities is siloed from each other. They control the filter bubble within their platform.
 
