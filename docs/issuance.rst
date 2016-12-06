@@ -4,7 +4,7 @@
 Issuance
 ########
 
-Project revenue of 55 million is pre-allocated into a smart contract that will release it over 2000 days at a decreasing rate.
+Project revenue of 55 million Link is pre-allocated into a smart contract that will release it over 2000 days at a decreasing rate. This is equivalent to 5 years of mining. Compare this to Ethereum which launched with a 6.5 year pre-mine.
 
 Issuance rates
 ##############
