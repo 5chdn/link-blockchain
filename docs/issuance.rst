@@ -11,11 +11,18 @@ Issuance rates
 
 .. raw:: html
 
-    <iframe width="700" height="450" src="//embed.chartblocks.com/1.0/?c=5846ab589973d26f213e6049&t=24511bccd8d82d9" frameBorder="0"></iframe>
+    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=5846ab589973d26f213e6049&t=24511bccd8d82d9" frameBorder="0"></iframe>
 
 Cumulative issuance
 ###################
 
 .. raw:: html
 
-    <iframe width="700" height="450" src="//embed.chartblocks.com/1.0/?c=583556329973d2de6f22b179&t=9c8a2ec16e7f9ea" frameBorder="0"></iframe>
+    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=583556329973d2de6f22b179&t=9c8a2ec16e7f9ea" frameBorder="0"></iframe>
+
+Inflation rate
+##############
+
+.. raw:: html
+    
+    <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=5846bdf89973d267253e6049&t=ac872ee929a41c6" frameBorder="0"></iframe>
