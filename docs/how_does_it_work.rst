@@ -10,7 +10,7 @@ The first blockchain was called Bitcoin. Pretty much the only thing in the Bitco
 
 Ethereum takes this concept much further. Computer programs called `smart contracts <https://en.wikipedia.org/wiki/Smart_contract>`_ can be uploaded into the blockchain and these programs can then store data in the database that everyone has a copy of.
 
-Many big projects are deployed on the Ethereum blockchain. But this presents a problem. One must assume that every software project has fatal bugs that will need to be fixed once they are discovered. Bitcoin had fatal problems early on that need to be fixed and so did Ethereum.
+Many big projects are deployed on the Ethereum blockchain. But this presents a problem. One must assume that every software project has fatal bugs that will need to be fixed once they are discovered. Bitcoin had fatal problems early on that needed to be fixed and so did Ethereum.
 
 Unfortunately, when the projects that are deployed on Ethereum need to be fixed they will have a very hard time because they will need to convince the entire blockchain to deploy their fix. This was the problem with The DAO crowdfunding project. An attacker stole $150m because of a bug in the smart contract. In attempting to fix this problem the Ethereum was split into two blockchains: Ethereum and Ethereum Classic.
 
