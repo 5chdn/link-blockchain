@@ -40,6 +40,7 @@ Table of contents
 
    how_does_it_work.rst
    cryptofuel.rst
+   issuance.rst
    configuration.rst
    filter_bubbles.rst
    light_client.rst
