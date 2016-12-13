@@ -46,6 +46,7 @@ Table of contents
    configuration.rst
    filter_bubbles.rst
    light_client.rst
+   purchase.rst
 
 Indices and tables
 ==================
