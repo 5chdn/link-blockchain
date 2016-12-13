@@ -46,8 +46,8 @@ Table of contents
    configuration.rst
    filter_bubbles.rst
    light_client.rst
-   purchase.rst
    mining.rst
+   purchase.rst
 
 Indices and tables
 ==================
