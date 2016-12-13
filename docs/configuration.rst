@@ -44,6 +44,9 @@ Do not use the ``--fast`` option as this will prevent the blobs from being store
 
 Netstats
 --------
+
+To have your node listed on http://stats.link-blockchain.org/ do the following (requires `Node.js <https://nodejs.org/en/>`_):
+
 .. code::
 
     git clone https://github.com/cubedro/eth-net-intelligence-api
