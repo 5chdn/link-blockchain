@@ -25,6 +25,8 @@ Install Parity as described here: https://ethcore.io/parity.html
 
     parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645 --geth
 
+Do not use the ``--warp`` option as this will prevent the blobs from being stored.
+
 Geth
 ----
 
@@ -37,6 +39,8 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
     geth --datadir ~/.link-geth --networkid 13919287 --port 30313 --rpcport 8645 --wsport 8646
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
+
+Do not use the ``--fast`` option as this will prevent the blobs from being stored.
 
 Netstats
 --------
