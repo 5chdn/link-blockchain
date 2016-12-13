@@ -20,8 +20,8 @@ Cumulative issuance
 
     <iframe width="700" height="300" src="//embed.chartblocks.com/1.0/?c=583556329973d2de6f22b179&t=9c8a2ec16e7f9ea" frameBorder="0"></iframe>
 
-Inflation rate
-##############
+Post-revenue inflation rate
+###########################
 
 .. raw:: html
     
