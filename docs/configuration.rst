@@ -18,12 +18,18 @@ WS Port: 8646
 
 Parity
 ------
+
+Install Parity as described here: https://ethcore.io/parity.html
+
 .. code::
 
     parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645 --geth
 
 Geth
 ----
+
+Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum
+
 .. code::
 
     geth --datadir ~/.link-geth init genesis.json
