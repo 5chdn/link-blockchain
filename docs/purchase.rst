@@ -8,4 +8,4 @@ Link from the revenue smart contract will be sold on exchanges once they support
 
 Alternatively, Link can be mined directly.
 
-If you wish to purchase Link please email link-blockchain@protomail.com. It is currently available at a price of 0.01 USD per LINK. Payment can be made via any cryptocurrency.
+If you wish to purchase Link please email purchase@link-blockchain.org. It is currently available at a price of 0.01 USD per LINK. Payment can be made via any cryptocurrency.
