@@ -19,7 +19,7 @@ WS Port: 8646
 Parity
 ------
 
-Install Parity as described here: https://ethcore.io/parity.html
+Install Parity as described here: https://parity.io/parity.html
 
 .. code::
 
