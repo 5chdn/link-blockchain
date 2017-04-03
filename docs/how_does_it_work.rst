@@ -14,14 +14,14 @@ Many big projects are deployed on the Ethereum blockchain. But this presents a p
 
 Unfortunately, when the projects that are deployed on Ethereum need to be fixed they will have a very hard time because they will need to convince the entire blockchain to deploy their fix. This was the problem with The DAO crowdfunding project. An attacker stole $150m because of a bug in the smart contract. In attempting to fix this problem the Ethereum was split into two blockchains: Ethereum and Ethereum Classic.
 
-Link is an Ethereum blockchain. The only purpose of the Link blockchain is to run Link. This means that whenever there is a problem that can only be fixed with a hard fork, it will not be difficult to convince the Link community to adopt it.
+The only purpose of the Link blockchain is to run Link. This means that whenever there is a problem that can only be fixed with a hard fork, it will not be difficult to convince the Link community to adopt it.
 
-The cryptocurrency of the Link blockchain is also called Link. Everything that is stored on the Link blockchain must be paid for with Link.
+The cryptocurrency of the Link blockchain is also called Link.
 
 BlobStore
 =========
 
-The principle smart contract on the Link blockchain is `BlobStore <http://docs.link-blockchain.org/projects/blobstore/en/latest/>`_. Anyone can store a `blob <https://en.wikipedia.org/wiki/Binary_large_object>`_ of data and get back a `blobId <http://docs.link-blockchain.org/projects/blobstore/en/latest/blobid.html>`_. This data is publically readable to everyone.
+The principle smart contract on the Link blockchain is `BlobStore <http://docs.link-blockchain.org/projects/blobstore/en/latest/>`_. It uses `IPFS <https://ipfs.io/>`_ as the underlying storage layer. Anyone can store a `blob <https://en.wikipedia.org/wiki/Binary_large_object>`_ of data and get back a `blobId <http://docs.link-blockchain.org/projects/blobstore/en/latest/blobid.html>`_. This data is publically readable to everyone.
 
 BlobStore has a rudimentary revisioning system so blobs can be updated while retaining their blobId and revision history.
 
