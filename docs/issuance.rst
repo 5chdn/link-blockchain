@@ -8,6 +8,8 @@ Project revenue of 55 million Link (equivalent to 5 years of mining) is pre-allo
 
 The purpose of the revenue is to provide funds for re-investment into the Link ecosystem and to provide profit for the developer.
 
+The block reward is the same as Ethereum. 5 Link per block / 30k Link per day.
+
 Issuance rate
 #############
 
