@@ -23,7 +23,9 @@
     "accountStartNonce": "0x00",
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x1388",
-    "networkID" : "0xd46437"
+    "networkID" : "0x51",
+    "chainID": "0x51",
+    "eip98Transition": "0x7fffffffffffff"
   },
   "genesis": {
     "seal": {
