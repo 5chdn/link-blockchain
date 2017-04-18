@@ -17,4 +17,4 @@ Parity needs to be run with the address to receive the mining rewards specified 
 
 Geth
 ----
-CPU mining with Geth is very easy. Run the regular Geth command, but add the ``--autodag --mine`` options. Use ``--etherbase`` to specify which account will receive the mining rewards. It defaults to using all processor cores. This can be changed using the ``--minerthreads`` option.
+CPU mining with Geth is very easy. Run the regular Geth command, but add the ``--mine`` option. Use ``--etherbase`` to specify which account will receive the mining rewards. It defaults to using all processor cores. This can be changed using the ``--minerthreads`` option.
