@@ -4,7 +4,9 @@
 Configuration
 #############
 
-Network ID: 13919287
+Network ID: 76
+
+Chain ID: 76
 
 Port: 30313
 
@@ -34,7 +36,7 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
 
     geth --datadir ~/.link-geth init genesis.json
     cp static-nodes.json ~/.link-geth
-    geth --datadir ~/.link-geth --networkid 13919287 --port 30313 --rpc --rpcport 8645 --wsport 8646 --fast
+    geth --datadir ~/.link-geth --networkid 76 --port 30313 --rpc --rpcport 8645 --wsport 8646 --fast
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
 
