@@ -7,7 +7,6 @@ GasPrice = 20000000000
 EthashCacheDir = "ethash"
 EthashCachesInMem = 2
 EthashCachesOnDisk = 3
-EthashDatasetDir = "/home/jbrown/.ethash"
 EthashDatasetsInMem = 1
 EthashDatasetsOnDisk = 2
 EnablePreimageRecording = false
@@ -17,7 +16,6 @@ Blocks = 10
 Percentile = 50
 
 [Node]
-DataDir = "/home/jbrown/.link-geth"
 IPCPath = "geth.ipc"
 HTTPHost = "127.0.0.1"
 HTTPPort = 8645
