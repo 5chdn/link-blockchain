@@ -34,8 +34,8 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
 
 .. code::
 
-    geth --config link.toml init genesis.json
-    geth --config link.toml
+    geth --config link.toml --datadir ~/.link-geth init genesis.json
+    geth --config link.toml --datadir ~/.link-geth 
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
 
