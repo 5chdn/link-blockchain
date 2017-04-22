@@ -1,5 +1,6 @@
 {
   "name": "Link",
+  "datadir": "link",
   "engine": {
     "Ethash": {
       "params": {
@@ -19,14 +20,6 @@
       }
     }
   },
-  "params": {
-    "accountStartNonce": "0x00",
-    "maximumExtraDataSize": "0x20",
-    "minGasLimit": "0x1388",
-    "networkID" : "0x4c",
-    "chainID": "0x4c",
-    "eip98Transition": "0x7fffffffffffff"
-  },
   "genesis": {
     "seal": {
       "ethereum": {
@@ -35,10 +28,20 @@
       }
     },
     "difficulty": "0x100000",
+    "gasLimit": "0x2dc6c0",
     "author": "0x0000000000000000000000000000000000000000",
-    "timestamp": "0x00",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "gasLimit": "0x2dc6c0"
+    "timestamp": "0x00",
+    "extraData": "0x77656c636f6d65746f7468656c696e6b6564776f726c64000000000000000000"
+  },
+  "params": {
+    "networkID" : "0x4c",
+    "chainID": "0x4c",
+    "maximumExtraDataSize": "0x20",
+    "minGasLimit": "0x1388",
+    "accountStartNonce": "0x00",
+    "eip86Transition": "0x7fffffffffffff",
+    "eip98Transition": "0x7fffffffffffff"
   },
   "nodes": [
     "enode://dce8ff1ae7ff6d1e7dbcd042071e0f95f50a6376054af45c23702e0397954d43b1afa0921e0e0eb87799c849f94162851696550bbc4b8bb1073b876d28f6c97f@139.162.15.124:30313"
