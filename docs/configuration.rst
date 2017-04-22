@@ -25,7 +25,7 @@ Install Parity as described here: https://parity.io/parity.html
 
 .. code::
 
-    parity --chain link.json --db-path ~/.link-parity --port 30313 --jsonrpc-port 8645 --geth
+    parity --chain link.json --port 30313 --jsonrpc-port 8645 --geth
 
 Geth
 ----
