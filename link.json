@@ -1,5 +1,5 @@
 {
-  "name": "Link",
+  "name": "link",
   "datadir": "link",
   "engine": {
     "Ethash": {
@@ -44,7 +44,7 @@
     "eip98Transition": "0x7fffffffffffff"
   },
   "nodes": [
-    "enode://dce8ff1ae7ff6d1e7dbcd042071e0f95f50a6376054af45c23702e0397954d43b1afa0921e0e0eb87799c849f94162851696550bbc4b8bb1073b876d28f6c97f@139.162.15.124:30313"
+    "enode://82cb7ddd5994b77b2971b52523a3b9d2900c0692859b474590f680a8ded2591a9f491f44c6ea5f865d4f18bac8d1c2ac8b83d70b5f7c0c1417fa7682d0eb0b37@139.162.15.124:30313"
   ],
   "accounts": {
     "0000000000000000000000000000000000000001": { "builtin": { "name": "ecrecover", "pricing": { "linear": { "base": 3000, "word": 0 } } } },
