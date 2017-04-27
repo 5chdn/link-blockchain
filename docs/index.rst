@@ -8,8 +8,6 @@ Link Blockchain
 
 Link is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed content apps that empower the individual.
 
-Currently Link is a testnet, but will soon be deployed as a livenet.
-
 Useful links
 ------------
 
@@ -21,7 +19,7 @@ Useful links
 
 * `Gitter channel <https://gitter.im/link-blockchain/link-blockchain>`_
 
-* `Testnet block explorer <http://blocks.link-blockchain.org/>`_
+* `Block explorer <http://blocks.link-blockchain.org/>`_
 
 * `Network stats <http://stats.link-blockchain.org/>`_
 
