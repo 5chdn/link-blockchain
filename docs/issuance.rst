@@ -4,7 +4,7 @@
 Issuance
 ########
 
-Project revenue of 55 million Link (equivalent to 5 years of mining) is pre-allocated into a smart contract that will release it over 2000 days at a rate that decreases every 200 days. Compare this to Ethereum which launched with a 6.5 year pre-mine.
+Project revenue of 55 million Link (equivalent to 5 years of mining) is pre-allocated into a smart contract that will release it over 2000 days at a rate that decreases every 200 days.
 
 The purpose of the revenue is to provide funds for re-investment into the Link ecosystem and to provide profit for the developer.
 
