@@ -8,6 +8,8 @@ Link Blockchain
 
 Link is an uncontrolled `linked data <https://en.wikipedia.org/wiki/Linked_data>`_ ecosystem living on the blockchain. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a development platform for interconnected distributed content apps that empower the individual.
 
+The blockchain was activated on 2017-04-30 @ 6:34am (UTC).
+
 Useful links
 ------------
 
