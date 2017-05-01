@@ -18,6 +18,8 @@ WS Port: 8646
 
     git clone https://github.com/link-blockchain/link-blockchain.git
 
+Link Blockchain can be synchronized with either Parity or Geth:
+
 Parity
 ------
 
