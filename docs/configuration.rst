@@ -18,16 +18,7 @@ WS Port: 8646
 
     git clone https://github.com/link-blockchain/link-blockchain.git
 
-Link Blockchain can be synchronized with either Parity or Geth:
-
-Parity
-------
-
-Install Parity as described here: https://parity.io/parity.html
-
-.. code::
-
-    parity --chain link.json --port 30313 --jsonrpc-port 8645 --geth
+Link Blockchain can be synchronized with either Geth or Parity:
 
 Geth
 ----
@@ -40,6 +31,15 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
     geth --config link.toml --datadir ~/.link-geth 
     # In a separate terminal launch the console.
     geth attach ~/.link-geth/geth.ipc
+
+Parity
+------
+
+Install Parity as described here: https://parity.io/parity.html
+
+.. code::
+
+    parity --chain link.json --port 30313 --jsonrpc-port 8645 --geth
 
 Netstats
 --------
